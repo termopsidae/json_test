@@ -1,0 +1,9 @@
+{
+  "name": "zbc",
+  "age": 100,
+  "hobby": {
+    "sports": "football",
+    "food": "china"
+  }
+
+}
